@@ -22,13 +22,11 @@ a{
 	width: 100%;
 	max-width: 300px;
 	box-shadow: 8px 8px 8px rgba(0,0,0,0.9);
+	text-decoration: none;
 }
 a:hover{
 	background-color: #212121;
 	transition: 2s;
 	border: 1px solid white;
 	box-shadow: 8px 8px 8px rgba(0,0,0,0);
-}
-i{
-	color: white;
 }
